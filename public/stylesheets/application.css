@@ -1,0 +1,19 @@
+.container {
+	text-align: center;
+}
+
+
+body {
+	background-color: #E8CC37;
+	font-family: Helvetica, Arial, sans-serif;
+
+}
+
+h1 {
+	font-size: 100px
+
+}
+
+h2 {
+	text-decoration: underline;
+}
